@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.py[cod]
+
+# Data (large DWG/PDF/DXF engineering drawings)
+data/NRE P&C/P&C_CAD/
+data/NRE P&C/P&C_PDF/
+
+# Generated databases (rebuilt by pipeline)
+*.db
+
+# Generated outputs
+output/
+output_2/
+output_cad_test/
+output_cad_test_2/
+reports/
+
+# Claude
+.claude/
+CLAUDE.md
+
+# OS
+.DS_Store
+Thumbs.db
+*:Zone.Identifier
+
+# Backup files
+*.bak
+*.dwl
+*.dwl2

@@ -495,7 +495,7 @@ After storage, the in-memory `DrawingData` object has been transformed into rela
 ```sql
 -- drawings table: one row per scanned drawing
 drawing_id          = 'NRE-EC-301.1'
-file_path           = '/home/adminho/mortensen/data/NRE P&C/P&C_PDF/NRE-EC-301.1.pdf'
+file_path           = '/home/user/mortensen/data/NRE P&C/P&C_PDF/NRE-EC-301.1.pdf'
 file_hash           = 'a3f2b8c1...'              -- SHA-256 of file bytes (enables incremental scanning)
 drawing_type        = 'DC_SCHEMATIC'
 title_block_json    = '{"drawing_number":"NRE-EC-301.1","project_name":"NOMADIC RED EGRET 138/34.5kV",...}'

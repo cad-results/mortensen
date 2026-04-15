@@ -7,7 +7,7 @@
 conda activate drawing-sync
 ```
 
-All commands below assume you are in `/home/adminho/mortensen/` and the `drawing-sync` conda env is active.
+All commands below assume you are in `/home/user/mortensen/` and the `drawing-sync` conda env is active.
 
 All commands use `-i` for input (file or directory) and `-o` for output (file or directory).
 

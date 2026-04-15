@@ -17,10 +17,6 @@ output_cad_test/
 output_cad_test_2/
 reports/
 
-# Claude
-.claude/
-CLAUDE.md
-
 # OS
 .DS_Store
 Thumbs.db

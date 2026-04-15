@@ -1100,7 +1100,7 @@ A single comprehensive JSON file (~2.5 MB) containing cross-drawing analysis:
 ```json
 {
   "generated": "2026-04-06T15:09:34.571121",
-  "input_directory": "/home/adminho/mortensen/data/NRE P&C/P&C_PDF",
+  "input_directory": "/home/user/mortensen/data/NRE P&C/P&C_PDF",
   "statistics": {
     "total_drawings": 177,
     "total_components": 494,
